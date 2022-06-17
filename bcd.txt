@@ -11,3 +11,7 @@ into paragraphs. For example, you could have a one-topic
 paragraph describing Venus (with the next paragraph describing Mars)
 or a one-topic paragraph describing the hues of a sunset 
 (with the next paragraph describing its reflection in the sea).
+This diversity means that it's not always easy 
+to determine what "one topic" means when dividing your text 
+into paragraphs. For example, you could have a one-topic 
+paragraph describing Venus (with the next paragraph describing Mars)
