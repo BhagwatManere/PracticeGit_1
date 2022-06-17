@@ -8,4 +8,5 @@ break in your long paragraph.
 	In other words, do not create the divide between two closely linked
 sentences, and avoid using pronouns in the second half that refer unclearly
 or ambiguously to nouns in the first half (called 
-their antecedents).
+their antecedents).I am Bhagwat Manere
+I am Learning Git Hub and its UGI
